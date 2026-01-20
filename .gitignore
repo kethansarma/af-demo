@@ -1,0 +1,17 @@
+envi
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+*.db
+*.p8
+tmp/
+logs/
+*.pid
+*.cfg
+snow.py
+standalone_admin_password.txt
+webserver_config.py
+trails
+.DS_Store
+.env
