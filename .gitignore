@@ -15,3 +15,5 @@ webserver_config.py
 trails
 .DS_Store
 .env
+k8
+airflow-test
